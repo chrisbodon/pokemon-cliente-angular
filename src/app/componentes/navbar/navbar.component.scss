@@ -1,0 +1,42 @@
+.active {
+  background: #3B4CCA;
+}
+
+nav {
+  background-color: #FFDE00;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, .2);
+  padding: 0px;
+}
+
+.navbar-collapse {
+  text-align: center;
+}
+
+.navbar-nav {
+  display: inline-block;
+  text-align: center;
+}
+
+.navbar-brand {
+  padding: 10px;
+  margin: 0px;
+}
+
+.navbar-toggler {
+  padding: 16px;
+  border: 0px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff;
+  padding: 15px;
+}
+
+.nav-item {
+  display: inline-block;
+
+  a {
+    border-radius: 50px;
+    margin: 5px;
+  }
+}

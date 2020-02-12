@@ -1,0 +1,20 @@
+img {
+  max-height: 300px;
+}
+
+.list-group-item {
+  z-index: 2;
+  color: #FF0000;
+  border-color: #FF0000;
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: #fff;
+  background-color: #FF0000;
+  border-color: #FF0000;
+}
+
+.card {
+  background-color: #CC0000;
+}

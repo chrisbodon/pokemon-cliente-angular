@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F2FEDC;
+  color: #3B4CCA;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  display: inline-block;
+}
+
+.btn, .btn:focus {
+  background-color: #FF0000;
+  color: #ffffff;
+  margin: 5px;
+  box-shadow: none;
+}
